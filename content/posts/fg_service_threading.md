@@ -1,7 +1,7 @@
 +++
-title = 'Fg_service_threading'
-date = 2024-04-28T22:25:49Z
-draft = true
+title = 'Service threading'
+date = 2024-06-03T22:25:49Z
+draft = false
 +++
 
-some service methods are executed on the main thread
+A short reminder to myself: most of Service methods are executed on the main thread (it looks like)
