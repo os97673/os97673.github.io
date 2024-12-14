@@ -1,5 +1,5 @@
 +++
-title = 'Usage of RequirsApi in a library api'
+title = 'Usage of RequiresApi in a library api'
 date = 2024-09-15T21:23:01Z
 draft = false
 +++
