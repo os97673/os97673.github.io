@@ -1,7 +1,7 @@
 +++
 title = 'Providing feedback for growth'
 date = 2025-04-06T23:46:06Z
-draft = true
+draft = false
 +++
 
 In our company (as in almost any other), we have a performance review process, and part of that process is peer feedback. Recently, I had a couple of discussions about what makes good, constructive feedback and realized that, for some engineers, the most challenging part is identifying areas for improvement. 
